@@ -1,11 +1,11 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Havya Kalpeshkumar Thakar
+# Author: Shivansh Pandey
 # Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Havya Kalpeshkumar Thakar"
-REG_NO="24BCE10148"
+STUDENT_NAME="Shivansh Pandey"
+REG_NO="24BCE10522"
 SOFTWARE_CHOICE="LibreOffice"
 
 # --- System Information ---
