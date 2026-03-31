@@ -1,7 +1,7 @@
 # Open Source Audit – LibreOffice on Fedora 43
 
-**Student Name:** Havya Kalpeshkumar Thakar  
-**Registration Number:** 24BCE10148  
+**Student Name:** Shivansh Pandey 
+**Registration Number:** 24BCE10522
 **Course:** Open Source Software  
 **Chosen Software:** LibreOffice
 
@@ -27,7 +27,7 @@ In addition to the written audit, the project delivers five Bash shell scripts t
 # Repository Structure
 
 ```text
-oss-audit-24BCE10148/
+oss-audit-24BCE10522/
 ├── README.md
 ├── Project_Report.pdf
 ├── scripts/
