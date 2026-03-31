@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Havya Kalpeshkumar Thakar
+# Author:Shivansh Pandey
 
 PACKAGE="libreoffice"
 
